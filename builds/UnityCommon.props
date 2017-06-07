@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>unity-vision-demo</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\hshapiro\Documents\unity-vision-demo\builds\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\hshapiro\Documents\unity-vision-demo\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
